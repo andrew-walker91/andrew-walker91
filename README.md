@@ -1,15 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Walker
-=====================================================================================================================================
+<h1 align="center">Hello, stranger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> my name is Andrew Walker</h1>
 
-Frontend Developer
-------------------
+<h2 align="center">Frontend Developer</h2> 
 
-I have been learning to program for 6 months after 12 years of working as a manager. I started with HTML, and now I'm learning JavaScript
+<p align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="375" height="375"/></p>
+
+
+I have been studying programming for 6 months after 12 years as a manager. I started with HTML, and now I'm learning JavaScript. I am hungry for knowledge and want to become a professional developer!
 
 *   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [gulyaykin@gmail.com](mailto:gulyaykin@gmail.com)
+*   ✉️  You can contact me at [gulyaykin@gmail.com](mailto:gulyaykin@gmail.com) or [Telegram](https://www.t.me/walker_andrew)
 *   🚀  I'm currently working on [my first frontend project on Hexlet](http://github.com/andrew-walker91/frontend-project-44)
-*   🧠  I'm learning Vue.js, React, React Hooks, Redux, Redux Toolkit, Jest### Skills 
+*   🧠  I'm learning Vue.js, React, React Hooks, Redux, Redux Toolkit, Jest
+  
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -28,9 +31,9 @@ I have been learning to program for 6 months after 12 years of working as a mana
                   
                   
 <p align="left">
-                          
- <a href="https://www.github.com/andrew-walker91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://andrewwalker.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrewwalker91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
+  <p align="left"> <a href="https://www.linkedin.com/in/andrewwalker91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.t.me/walker_andrew" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" width="32" height="32" /></a></p>
+  
  ### Badges
 
 <b>My GitHub Stats</b>
