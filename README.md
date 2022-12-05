@@ -5,12 +5,14 @@
 <p align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="375" height="375"/></p>
 
 
-I have been studying programming for 6 months after 12 years as a manager. I started with HTML, and now I'm learning JavaScript. I am hungry for knowledge and want to become a professional developer!
+I have almost 1 year of experience in JavaScript and 9 years of experience in sales. As a result, 19 years of total experience 😁. <br> <br> 
+
+I started with HTML, and now I'm learning JavaScript. I am hungry for knowledge and want to become a professional developer!
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [gulyaykin@gmail.com](mailto:gulyaykin@gmail.com) or [Telegram](https://www.t.me/walker_andrew)
 *   🚀  I'm currently working on [my first frontend project on Hexlet](http://github.com/andrew-walker91/frontend-project-44)
-*   🧠  I'm learning Vue.js, React, React Hooks, Redux, Redux Toolkit, Jest
+*   🧠  I'm learning Vue.js, React, React Hooks, Redux, Redux Toolkit and Jest
   
 ### Skills 
 <p align="left">
