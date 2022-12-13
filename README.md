@@ -10,7 +10,8 @@
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [gulyaykin@gmail.com](mailto:gulyaykin@gmail.com) or [Telegram](https://www.t.me/walker_andrew)
-* 🚀  I'm currently working on [my first frontend project on Hexlet](http://github.com/andrew-walker91/frontend-project-44)
+* 🚀  I'm currently working on [Brain Games](http://github.com/andrew-walker91/frontend-project-44) and [Difference calculator
+](http://github.com/andrew-walker91/frontend-project-46)
 * 🧠  I'm learning React, React Hooks, Redux, Redux Toolkit and Jest
   
 ## Skills 
