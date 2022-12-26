@@ -33,8 +33,3 @@
 <a href="http://www.github.com/andrew-walker91"><img src="https://github-readme-stats.vercel.app/api?username=andrew-walker91&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="andrew-walker91's GitHub stats" /></a>
 
 <a href="http://www.github.com/andrew-walker91"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-walker91&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="andrewwalker91" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/andrewwalker91?trk=profile-badge">Andrey Gulyaykin</a></div>
-              
